@@ -1,3 +1,29 @@
 #nav-header li a:after {
   display: none;
 }
+
+.first-text {
+  color: #363d47;
+  font-size: 1rem;
+}
+
+.second-text {
+  font-size: 2rem;
+  color: black;
+}
+.logo-color {
+  color: green;
+}
+
+.details {
+  font-size: 0.9rem;
+  list-style: none;
+}
+
+.last-card-text {
+  text-align: center;
+  width: 78%;
+  justify-content: center;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
